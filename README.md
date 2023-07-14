@@ -5,8 +5,13 @@
 ### The results of clicking through the registration page are available to view in the attached excel and its sheets.
 In the Excel you will find test cases and their actual (6.06.23) results.
 
-Goal: To write exploratory test cases and detect possible defects.
+Goal: To write exploratory test cases and detect possible defects, also write defects' report.
 
+Tests was about checking out:
+- Proper web navigation
+- User's registration
+- Web's translation
+  
 <sub> Test environment:
 Windows 10 Home, (64-bit),</sub>
 
